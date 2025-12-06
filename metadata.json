@@ -1,0 +1,7 @@
+{
+  "name": "手势切水果",
+  "description": "基于 HTML5 Canvas 和 MediaPipe 的体感切水果游戏。使用摄像头捕捉手势，挥动手指切开屏幕上的水果。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
